@@ -1,0 +1,16 @@
+body {
+  background-color: #110a2f; 
+  color: white; 
+}
+main, header {
+  background: #9c1687;      
+  border-radius: 8px;
+  box-shadow: 0 10px 30px #9c1687(0, 0, 0, 0.3);
+}
+h1, h2 {
+  color: gold;   
+}
+  h2{
+    text-decoration: underline;
+    color:orange;
+  }
